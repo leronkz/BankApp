@@ -6,4 +6,4 @@
 ## Technologies Used
 - Java
 - Hibernate
-- Swing Security
+- Swing
